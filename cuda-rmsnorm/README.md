@@ -136,7 +136,7 @@ docs/validation.md              当前验证范围
 
 ## 发布与简历
 
-项目位于 `Janicezhhhh/GPU` 仓库的普通子目录，阶段成果使用 `cuda-rmsnorm-lab` 分支，不创建嵌套 Git 仓库。发布前实际完成 GPU 测试并保留 benchmark 原始结果。
+项目位于 `Janicezhhhh/GPU` 仓库的普通子目录，后续阶段成果直接提交到 `main` 分支，不创建嵌套 Git 仓库。发布前实际完成 GPU 测试并保留 benchmark 原始结果。
 
 简历只描述自己理解、能够解释并复现的工作；标明实现和验证范围。数据尚未生成时，不填写加速倍数，不称为生产级实现。
 
